@@ -1,0 +1,20 @@
+﻿Build started 10/5/2017 18:52:29.
+     1>Project "F:\programming_pp_programs\1617_S1\Exam_PP_1617_S1\Exam_PP_1617_S1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Exam_PP_1617_S1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Exam_PP_1617_S1.unsuccessfulbuild".
+         Touching "Debug\Exam_PP_1617_S1.lastbuildstate".
+     1>Done Building Project "F:\programming_pp_programs\1617_S1\Exam_PP_1617_S1\Exam_PP_1617_S1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
